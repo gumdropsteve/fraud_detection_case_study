@@ -13,7 +13,7 @@ You are a contract data scientist/consultant hired by a new e-commerce site to t
   - This resulted in a log loss of 0.33 
 - Our model  achieved a log loss of 0.06
 
-- Predicted chance of fraud
+- Predicted chance of fraud Thresholds
   - Low: up to 0.5% 
   - Med: 0.5% to 70% 
   - High: x > 70%
