@@ -1,7 +1,8 @@
 # Fraud Detection Case Study
 
 ### Overview
-The Team's slideshow presentation can be found [here](https://docs.google.com/presentation/d/18Cjmb0vYKc3gODhvI9Pd0EpG34irc41pNJ-zUGMSC64/edit?usp=sharing)
+- The Team's slideshow presentation can be found [here](https://docs.google.com/presentation/d/18Cjmb0vYKc3gODhvI9Pd0EpG34irc41pNJ-zUGMSC64/edit?usp=sharing)
+- For an understanding of the project, see the [overview](https://github.com/gumdropsteve/fraud_detection_case_study/blob/master/overview_from_gschool.md) provided by Galvanize
 
 ### Model
 - We applied Gradient Boosting to predict the probability of any event being fraud
